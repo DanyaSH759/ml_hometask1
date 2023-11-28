@@ -1,13 +1,2 @@
-,45
-name,Mahindra Bolero 2011-2019 ZLX
-year,2012
-km_driven,135000
-fuel,Diesel
-seller_type,Individual
-transmission,Manual
-owner,First Owner
-mileage,15.96 kmpl
-engine,2523 CC
-max_power,62.1 bhp
-torque,195Nm@ 1400-2200rpm
-seats,7.0
+,name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+0,Tata Nexon 1.5 Revotorq XE,2017,25000,Diesel,Individual,Manual,First Owner,21.5 kmpl,1497 CC,108.5 bhp,260Nm@ 1500-2750rpm,5.0
